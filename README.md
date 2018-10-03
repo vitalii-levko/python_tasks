@@ -41,3 +41,19 @@ files = {
 }
 print(FileOwners.group_by_owners(files))
 ```
+
+## Hypotenuse
+
+Write a function to calculate the hypotenuse of a right angled triangle.
+
+For example, _find_hypotenuse_ function should return _5.0_ for the values A(0,4), B(0,0) and C(3,0).
+
+```python
+class Hypotenuse:
+
+    @staticmethod
+    def find_hypotenuse(x1, y1, x2, y2):
+        return None
+
+print(Hypotenuse.find_hypotenuse(0, 0, 3, 4))
+```
