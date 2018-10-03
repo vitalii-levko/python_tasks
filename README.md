@@ -66,10 +66,6 @@ A leap year is exactly divisible by 4 except for century years (years ending wit
 
 For example, _leap_year_ function given the value "2000" should return _True_.
 
-2017 is not a leap year
-1900 is a not leap year
-2012 is a leap year
-2000 is a leap year
 ```python
 class LeapYear:
 
